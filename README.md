@@ -1,2 +1,0 @@
-# accipio
-TensorFlow made easy!
